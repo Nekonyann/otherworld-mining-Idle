@@ -1,0 +1,77 @@
+{
+    "items":{
+        "copper_ore": "铜矿石",
+        "copper_ore_tooltip": "这些铜矿石在可以轻松地在岩石表面找到！你敢肯定它们不是孔雀石铜矿。",
+        "copper_ingot": "铜锭",
+        "copper_ingot_tooltip": "特殊的制作工艺让铜锭的表面像波浪一样起伏。",
+        "copper_pickaxe": "铜镐",
+        "copper_pickaxe_tooltip": "由于螺纹铜管很软，这把镐子用起来手感其实不太好。经管如此，他的设计师还是坚持使用这种不太硬的铜管。",
+        "wood_ore": "木矿石",
+        "wood_ore_tooltip": "显而易见，这些圆柱体是木桩。不过这是一个挖矿游戏，所以我想叫他们木矿石。",
+        "plank": "木板",
+        "plank_tooltip": "这些只是切得四四方方的木板。如果这是一个挖矿游戏的话，它的名字难道不应该是木锭？",
+        "wood_pickaxe": "木镐",
+        "wood_pickaxe_tooltip": "我们的木镐已经超越了过时的设计，木镐不再只有3点耐久而是无限耐久！",
+        "stone_ore": "石矿石",
+        "stone_ore_tooltip": "住在河对岸的克林特可以帮你砸开这些石头，不过里面或许什么也没有。",
+        "stone_ingot":"石锭",
+        "stone_ingot_tooltip": "找到这样一块平整完美的天然石头花了你不少时间。",
+        "stone_pickaxe": "石镐",
+        "stone_pickaxe_tooltip": "这把石镐的手柄是附近矿洞里找到的石笋，它太扎手了，以至于你不得不在护手上缠上绷带。",
+        "lifewood_ore": "生命木矿",
+        "lifewood_ore_tooltip": "即使被砍断了，这段原木依然散发着生命的芳香。",
+        "lifewood_ingot": "生命木锭",
+        "lifewood_ingot_tooltip": "切割好的生命木木板，如果放着不管就会自己长出藤蔓来。",
+        "lifewood_pickaxe": "生命木镐",
+        "lifewood_pickaxe_tooltip": "“这些木材和治疗宝石的相性非常好，不用魔力激发也能缓慢地治疗持有者…宝石得另算钱。”",
+        "iron_ore": "黄铁矿",
+        "iron_ore_tooltip": "这块黄铁矿的表面析出了一些可爱的高纯度黑色晶体。",
+        "iron_ingot": "铁锭",
+        "iron_ingot_tooltip": "一些杂质让铁锭出现了淡蓝的颜色。",
+        "iron_pickaxe": "铁镐",
+        "iron_pickaxe_tooltip": "在手柄上套两个镐头会提升开采效率吗？答案显而易见：不能。",
+        "granite_ore": "花岗岩矿",
+        "granite_ore_tooltip": "这些岩浆形成的侵入岩比普通的石头更硬。",
+        "granite_ingot": "花岗岩锭",
+        "granite_ingot_tooltip": "花岗岩要经过九九八十一次打磨才能成为花岗岩锭，这些锭显然是制作工具的好材料。",
+        "granite_pickaxe": "花岗岩镐",
+        "granite_pickaxe_tooltip": "只有装饰作用，甚至会降低镐头强度的钻头样式表达了设计者的思乡之情。",
+        "shale_ore": "页岩矿",
+        "shale_ore_tooltip": "页岩是粘土脱水硬化后形成的一种岩石。如果我是粘土，我会选择沉在有水和鸭子的湖底。",
+        "shale_ingot": "页岩锭",
+        "shale_ingot_tooltip": "页岩锭和花岗岩锭不同，它们只是结构完好的小块页岩。",
+        "shale_pickaxe": "页岩镐",
+        "shale_pickaxe_tooltip": "页岩给予这把镐轻巧和易碎的特性。由于镐头太容易打坏，页岩镐的镐头只是普通地被捆在手柄上。",
+        "icestone_ore": "冰长石矿",
+        "icestone_ore_tooltip": "自发光和寒冷是这种矿石的特色。纯度高的冰长石会在原矿表面析出亮蓝色的晶体。",
+        "icestone_ingot": "冰长石锭",
+        "icestone_ingot_tooltip": "提纯重结晶的冰长石——在这个世界里经常被当作不会融化冰块使用。",
+        "icestone_pickaxe": "冰长石镐",
+        "icestone_pickaxe_tooltip": "这把镐子可以用来挖掘，擅长战斗，有可以马上投入使用的备用镐头，它甚至还会发光！"
+    },
+    "gui": {
+        "level": "等级"
+    },
+    "context": {
+        
+    },
+    "dialogues": {
+
+    },
+    "rarity": {
+        "mediocre": "平庸",
+        "common": "普通",
+        "uncommon": "罕见",
+        "rare": "稀有",
+        "epic": "史诗",
+        "legendary": "传奇",
+        "mythical": "神话",
+        "immortal": "不朽",
+        "divine": "神圣",
+        "ancient": "远古",
+        "astrology":"星相",
+        "amber":"琥珀"
+    }
+
+
+}
